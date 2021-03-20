@@ -1,6 +1,6 @@
 # OrderBook
 Implementation for an OrderBook ordered "Market-by-price"
-![orderbook.png](https://github.com/nikkaramessinis/OrderBook/blob/main/orderbook.png "OrderBook")
+<br>![orderbook.png](https://github.com/nikkaramessinis/OrderBook/blob/main/orderbook.png "OrderBook")
 
 <br>Detailed explanation on how commands in an OrderBook get executed. 
 <br>https://www.youtube.com/watch?v=Kl4-VJ2K8Ik
