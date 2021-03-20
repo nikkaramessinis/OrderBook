@@ -6,7 +6,7 @@ low latency system like an orderbook.
 * Then upgrade testing to support multiple market orders with threads. 
 * Upgrade map to multimap. We may have entries for the same price at the same time.
 
-![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+![orderbook.png](https://github.com/nikkaramessinis/OrderBook/blob/main/orderbook.png "OrderBook")
 
 3. How would you improve the algorithm if you had to support 21 million securities?
 What data structures would you use and does that change your architecture?
