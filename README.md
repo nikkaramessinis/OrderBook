@@ -1,5 +1,5 @@
 # OrderBook
-Implementation for an OrderBook ordered "Market-by-price"
+Implementation for an OrderBook ordered "Market-by-price". Low latency C++
 <br>![orderbook.png](https://github.com/nikkaramessinis/OrderBook/blob/main/orderbook.png "OrderBook")
 
 <br>Detailed explanation on how commands in an OrderBook get executed. 
